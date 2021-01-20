@@ -66,7 +66,7 @@ const UserService = {
         ['mi perro', 'my dog', 7],
         ['mi casa', 'my house', 8],
         ['boligrafo', 'pen', 9],
-        ['donde esta', 'how are you', 10],
+        ['como estas', 'how are you', 10],
         ['mi amigo', 'my friend', null]
       ]
 
